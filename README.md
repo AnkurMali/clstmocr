@@ -1,0 +1,2 @@
+# clstmocr
+partial work
